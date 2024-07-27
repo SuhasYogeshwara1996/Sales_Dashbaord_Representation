@@ -4,8 +4,7 @@ Sales Dashboard Representation
 This project displays a Tableau-created sales dashboard. It provides insights into business performance by presenting sales data in a visual format. 
 
 # Software and their versions used in this project.
-Software     Version
-Tableau      24.1.1132
+Tableau      24.1.1132, 
 Excel        2406
 
 # Usage Instructions
